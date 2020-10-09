@@ -1,0 +1,533 @@
+<!-- <html><head><title></title></head><body></body></html>  -->
+<!DOCTYPE HTML>
+<html>
+<!--
+Cross Builder V2.0
+page version: 4.1
+by 网络媒体事业群办公室_商业体验中心
+合作请RTX shelleyhe
+-->
+<head>
+	<meta charset="gb2312">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="Keywords" content="台湾“邦交国”">
+	<title>台湾“邦交国”就剩这21个了，基本上都“一小二穷”</title>
+    <!-- //mat1.gtimg.com/www/mb/cb2/global/assets/css/crossbuilder.css
+         ../../../global/assets/css/crossbuilder.css
+    -->
+    <link rel="stylesheet" type="text/css" href="//mat1.gtimg.com/www/mb/cb2/global/assets/css/crossbuilder.css">    
+   	<link rel="stylesheet" type="text/css" href="//mat1.gtimg.com/www/mb/cb2/publish/prj_usual_1/assets/css/pbt_style_v.1.4.css">
+<link rel="stylesheet" type="text/css" href="//mat1.gtimg.com/www/mb/cb2/publish/prj_usual_1/assets/css/ms_hichart/hichart_style.css">
+<link rel="stylesheet" type="text/css" href="//mat1.gtimg.com/www/mb/cb2/publish/prj_usual_1/assets/css/mc_dianzan/dianzan_style_v1.0.css">
+    <!-- html5.js for IE less than 9 -->
+    <!--[if lt IE 9]>
+        <script src="//mat1.gtimg.com/www/mb/cb2/global/assets/js/tools/html5.js"></script>
+    <![endif]-->
+
+    <style>
+       
+			/* 背景颜色设置 */
+        html, .pbt_intro_wrapper.style-0 .box_icon{ background-color: #ffffff!important;}
+        
+        /* 整体颜色设置 */
+        div,span,p,a, h2, h3,h4{color: #555555!important;}
+        h2,h3,h4{border-color:#555555!important;}
+        /* 针对财经频道 */
+        @media only screen and (max-width: 480px){
+            /* 针对财经频道 */
+            .pbt_container.size_full {margin: 0px auto 10px auto; }
+        }
+
+    </style>
+</head>
+
+<body data-src="">
+<div id='wx_pic' style='margin:0 auto;display:none;'><img src='http://inews.gtimg.com/newsapp_ls/0/964403573/0' /></div>
+<link rel="stylesheet" type="text/css" href="//mat1.gtimg.com/www/mb/cb/publish/assets/css/cb_toolbar_v2.css"><div class="cb_toolbar" id="logoPanel"><div class="mod_inner"><div class="logo"><a href="http://news.qq.com" class="newslogo"></a></div><div class="link"><ul><li><a href="//www.qq.com" target="_blank">腾讯网首页</a></li><li class="end"><a href="//www.qq.com/map/" target="_blank">网站导航</a></li></ul></div>
+            <script language="JavaScript">
+                var hdPic ={url:location.href,title:"0",pic: [], pic1: []};
+                 var cbtb_url = "";
+                    var login = {
+                        loginSuccess: function(){
+                            ptlogin2_onClose();
+                            cbtb_init();
+                        }
+                    };
+            </script>
+            <div class="shareList">
+                <div class="share_btn">
+                    <span>分享到：</span>
+                </div>
+                    <ul class="menu-bd">
+                        <li class="share2weibo" id="cb_share2weibo" title="转播腾讯微博"><a href="javascript:void(0)" hidefocus="true" class="g-btn-b" bosszone="gqTweibo"></a></li>
+                        <li class="share2qzone" id="cb_share2qzone" title="分享到我的QQ空间"><a href="javascript:void(0)" hidefocus="true" class="g-btn-b" bosszone="gqTzone"></a></li>
+                        <li class="share2qq" id="cb_share2qq" title="分享到QQ好友"><a href="javascript:void(0)" hidefocus="true" class="g-btn-b" bosszone="gqTQQ"></a></li>
+                        <li class="share2sina" id="cb_share2sina" title="转播到新浪微博"><a href="javascript:void(0)" hidefocus="true" class="g-btn-b" bosszone="gqTsina"></a></li>
+                        <li class="share2wx" id="cb_share2wx" title="分享到微信"><a href="javascript:void(0)" hidefocus="true" class="g-btn-b" bosszone="gqTwx"></a></li>
+                        <li class="share2wxf" id="cb_share2wxf" title="分享到朋友圈"><a href="javascript:void(0)" hidefocus="true" class="g-btn-b" bosszone="gqTwxf"></a></li>
+                    </ul>
+
+                <div class="tb_wx_share" id="cb_share_div" style="display:none;">
+                        <div class="tb_wx_share_triangle" id="cb_ts_triangle"></div>
+                        <div class="tb_wx_share_left"><img src="http://inews.gtimg.com/newsapp_ls/0/964810563/0"></div>
+                        <div class="tb_wx_share_right">
+                          <ul>
+                            <li class="a"><div></div><p>扫一扫二维码</p></li>
+                            <li class="i"></li>
+                            <li class="b"><div></div><p>点击右上角图标</p></li>
+                            <li class="i"></li>
+                            <li class="c" id="cb_ts_wx"><div></div><p>发送给微信好友</p></li>
+                            <li class="d" id="cb_ts_wxf"><div></div><p>分享到朋友圈</p></li>
+                          </ul>
+                        </div>
+                    </div>
+            </div>
+            <script language="JavaScript" src="//mat1.gtimg.com/www/mb/cb/publish/assets/js/cb_share_v1.js"></script>
+        </div><div class="tb_login_content">
+                <div id="tb_login_content_in" style="display:none;">
+                    <a href="javascript:void(0);" id="http_login">
+                        [登录]
+                    </a>
+                </div>
+                <div id="tb_login_content_out" style="display:none;">
+                    <span>
+                        您好，
+                        <i id="tb_qq_uid">
+                        </i>
+                    </span>
+                    <a href="javascript:void(0);" id="http_logout">
+                        [退出]
+                    </a>
+                </div>
+            </div>
+            <div id="login_div" class="login_div">
+                <iframe id="login_frame" frameborder="0" scrolling="no"></iframe>
+            </div>
+            <div id="overlay"></div>
+        </div>
+        <script language="JavaScript" src="//imgcache.qq.com/ptlogin/ac/v9/js/ptloginout.js"></script>
+        <script language="JavaScript" src="//mat1.gtimg.com/www/mb/cb/publish/assets/js/cbtb_qq_wx_userlogin_v1.js" charset="utf-8"></script>
+        <script language="JavaScript">
+            cbtb_init();
+        </script><!-- Main Content -->
+<div class="pbt_main_container pbt_m_main anim main_content">
+
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- image wraper -->
+            <div class="pbt_img_wrap al-mid">
+                <a>
+                    <img class="lazyCB"  data-size="1000x376" data-original="http://inews.gtimg.com/newsapp_ls/0/964406386/0">
+                </a>
+            </div>
+            <!-- image title wraper -->
+            <div class="pbt_img_title_wrap">
+                <p></p>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_intro_wrapper style-1">
+            <!-- 背景颜色 : 如果为 Default 则不设置 "background-color"；边框颜色：如果为 Default 则不设置 "border-color" -->
+            <div class="box_wrapper" style="background-color:#F1F1F1; border-color:#Default;">
+                <div class="box_icon top"><img src=""></div>
+                <div class="box_icon bottom"><img src=""></div>
+                <div class="pbt_text_wrap pc-style">                    
+                    <p>
+                        <!-- 标题颜色 及 标题文字 -->
+                        <span class="title" style="color:#ffffff!important; background-color:#4B4B4B!important">导读</span>
+                        <!-- PC端文字详情 -->
+                        近日，有外媒报道称，梵蒂冈与中国大陆建交在即，双方有意恢复自1951年以来中断的双边关系。如果梵蒂冈与中国大陆建交，那台湾“邦交国”将进一步缩减到20个。
+                    </p>
+                </div>
+                <div class="pbt_text_wrap mobile-style">
+                    <p>
+                        <!-- 标题颜色 及 标题文字 -->
+                        <span class="title" style="color:#ffffff!important; background-color:#4B4B4B!important">导读</span>
+                        <!-- Mobile端文字详情 -->
+                        近日，有外媒报道称，梵蒂冈与中国大陆建交在即，双方有意恢复自1951年以来中断的双边关系。如果梵蒂冈与中国大陆建交，那台湾“邦交国”将进一步缩减到20个。
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="pbt_container anchor_para ">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <div class="box_table">
+                    <div class="box_table-td single icon" style="display:none">
+                        <img src="">
+                    </div>
+                    <div class="box_table-td full">
+                        <h2 class="pbt_small_size" style="color:#000000!important;">台湾21个“邦交国”大都“一小二穷”</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-indent: 0em;">据腾讯新闻“短史记”栏目分析，台湾“邦交国”数量出现过三次大的起伏。1949年，中华人民共和国成立后，社会主义阵营中的苏联宣布与台湾“断交”，蒙古、波兰等紧随其后；1950年，阿富汗、挪威、瑞典等国与台湾“断交”。台湾“邦交国”由47个跌至38个。</p><p style="text-indent: 0em;">60年代，民族独立运动诞生了一大批新的国家。台湾利用冷战局势，发展了较多“邦交国”，在1969年一度达到“外交”巅峰（70个）。</p><p style="text-indent: 0em;">1971年，中国恢复在联合国合法席位；1972年，尼克松访华。此后，曾是台湾当局“外交”最核心支柱的日本和美国，相继与之“断交”。国际形势骤变之下，“断交潮”随之而来。1971年，智利、土耳其、伊朗等12国对台“断交”；1972年，塞浦路斯、卢森堡、澳大利亚等13国对台“断交”；1973年—1975年，台湾共失去了16个“邦交国”，只剩下27个（包括新增的汤加、萨摩亚两国）。</p><p style="text-indent: 0em;">与台湾“断交潮”相对应的是，70年代，中华人民共和国迎来了建交高潮。1971年-1975年，共有50个国家先后与中华人民共和国建交。从下图中可以清晰看到，这5年是与中华人民共和国建交国家最多的5年。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <!--长页hichart图表模块 start-->
+        <div class="hiChart">
+            <div class="titleMsg"><p style="text-align: center;"><strong>1949年起与中华人民共和国建交国家数量</strong></p><p style="text-align: center;">（截至2016年3月，数据来自外交部）</p></div>
+            <div class="uint">单位:%</div>
+            <div class="content">
+                <div class="chart"></div>
+            </div> 
+            <div class="tip">*点击图表查看详情</div>
+        </div>
+        <!--长页hichart图表模块 end-->
+    </div>
+
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-indent: 0em;">上世纪80年代以来，台湾“邦交国”总数长期维持在25-30个之间。这种维持，与对外经济援助密不可分。1989年，台湾为同格林纳达、伯利兹两国“建交”，分别花了5000万和1000万美元。1990年—1996年，台湾投资尼加拉瓜2亿多美元，为多米尼加援建的科技园和大学校舍，约价值5000万美元。<span style="text-indent: 2em;">陈水扁执政时期，台湾当局以“出访”的机会，仅以兴建“奥巴迪亚妇幼医院”名义就捐贷给巴拿马3500万美元，另外还“援助”海地5500万美元、格林纳达36万美元，并向巴拉圭提供2500万美元的贷款等。不过，这种四处撒钱的手段搞出的“邦交国”是不可靠的，比如，近年马拉维、冈比亚等国就曾先后和台湾当局“断交”，转而和中华人民共和国建交。</span></p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- image wraper -->
+            <div class="pbt_img_wrap al-mid">
+                <a>
+                    <img class="lazyCB"  data-size="750x319" data-original="http://inews.gtimg.com/newsapp_ls/0/964800630/0">
+                </a>
+            </div>
+            <!-- image title wraper -->
+            <div class="pbt_img_title_wrap">
+                <p></p>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-indent: 0em; text-align: left;"><span style="text-indent: 0em;">最近的一个是</span><span style="text-indent: 0em;">圣多美和普林西比。</span><span style="text-indent: 0em;">2016年12月20日，圣多美和普林西比政府宣布与台湾断绝“外交”关系，台湾</span><span style="text-indent: 0em;">“邦交国”</span><span style="text-indent: 0em;">仅剩21个。这些国家虽分布在不同的洲际，却有一些共同的特点，大致可以用“一小二穷”来概括：大都比较贫穷落后，其中只有8个国家的面积超过了10万平方公里。下图是台湾21个“邦交国”及“建交”时间。</span><br/></p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- image wraper -->
+            <div class="pbt_img_wrap al-mid">
+                <a>
+                    <img class="lazyCB"  data-size="960x849" data-original="http://inews.gtimg.com/newsapp_ls/0/968779847/0">
+                </a>
+            </div>
+            <!-- image title wraper -->
+            <div class="pbt_img_title_wrap">
+                <p></p>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div><div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- line wrapper -->
+            <div class="pbt_sperate_line_wrap pbt_line_dot"></div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container anchor_para ">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <div class="box_table">
+                    <div class="box_table-td single icon" style="display:none">
+                        <img src="">
+                    </div>
+                    <div class="box_table-td full">
+                        <h2 class="pbt_small_size" style="color:#000000!important;">哪些国家还没与中华人民共和国建交</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-indent: 0em;">为了获得更多援助，小国同台湾“断交”再“复交”戏码也一再上演。如塞尔加尔1960年成为台湾“邦交国”，1964年、1972年、2005年三次“断交”。<span style="text-indent: 0em;">目前，有7个和中华人民共和国建交后断交的国家，是台湾当局的“邦交国”，显然也是被“金元外交”收买的。如下图：</span></p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- image wraper -->
+            <div class="pbt_img_wrap al-mid">
+                <a>
+                    <img class="lazyCB"  data-size="750x395" data-original="http://inews.gtimg.com/newsapp_ls/0/964801576/0">
+                </a>
+            </div>
+            <!-- image title wraper -->
+            <div class="pbt_img_title_wrap">
+                <p></p>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-indent: 0em;">截至目前，除了上述建交后又断交的国家，与中华人民共和国从未建交的国家还有15个：亚洲的不丹、欧洲的梵蒂冈、加勒比海岛国海地、多米尼加、圣文森特和格林纳丁斯、圣尼茨和尼维斯；中美洲国家巴拿马、危地马拉、洪都拉斯、萨尔瓦多；南美洲的巴拉圭；大洋洲岛国所罗门群岛、图瓦卢、帕劳；非洲小国斯威士兰。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- image wraper -->
+            <div class="pbt_img_wrap al-mid">
+                <a>
+                    <img class="lazyCB"  data-size="858x566" data-original="http://inews.gtimg.com/newsapp_ls/0/964845171/0">
+                </a>
+            </div>
+            <!-- image title wraper -->
+            <div class="pbt_img_title_wrap">
+                <p></p>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-align: center;">与中华人民共和国建交国家的建交时长</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-indent: 0em;">这些国家里最特殊的大概就是不丹了。喜马拉雅山南麓的小国不丹在全球化浪潮的今天依然“隐居世外”，目前中、美、俄等大国都没和不丹建交。1949年8月，印度和不丹签订《永久和平与友好条约》，规定不丹对外关系接受印度的“指导”。尽管不丹与中国接壤，但两国目前尚未建交。因为历史遗留问题，中国和不丹在领土边界问题上尚有争议。</p><p style="text-indent: 0em;">另外，据外媒报道，梵蒂冈与北京的建交谈判已经进入尾声，双方有意恢复自1951年以来中断的双边关系。报道援引北京学者的分析称，北京与梵蒂冈可能采纳越南2010年与梵蒂冈达成的协议，即表面上由梵蒂冈正式任命主教，实际上由北京方面先行敲定人选。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div><div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- line wrapper -->
+            <div class="pbt_sperate_line_wrap pbt_line_normal"></div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title">资料来源</h2>
+                <div class="pbt_inline_info">
+                    <p>新华网、外交部网站、短史记、海运仓内参</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- image wraper -->
+            <div class="pbt_img_wrap al-mid">
+                <a>
+                    <img class="lazyCB"  data-size="600x600" data-original="http://inews.gtimg.com/newsapp_ls/0/964466321/0">
+                </a>
+            </div>
+            <!-- image title wraper -->
+            <div class="pbt_img_title_wrap">
+                <p></p>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-align: center;">欢迎关注新闻百科官方微信</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div><!-- 00 内页 Dom - 内页大图 : 单例-图文叠加，垂直居左 -->
+<!-- 评论  -->
+<div class="pbt_container cbtb_comment">
+    <div class="pcomment">
+        <div class="row one">
+            <h3><span id='comment_total_num'>0</span> 条评论</h3>
+        </div>
+        <div class="row">
+            <ul id='comment_list_show'>
+            </ul>
+            <div class="nav_wrapper">
+                <a id='get_more_comment' class="btn-more">加载更多</a>
+                <span style="display:none">正在加载更多评论...</span>
+            </div>
+        </div>
+
+        <!-- 已经登录：直接评论 -->
+        <div id='hasLogin' class="row hasLogin" style="display:block">
+            <p>添加评论</p>
+            <form method="post" id="commentForm" target="ajaxUpload" action="http://w.coral.qq.com/article/comment/">
+                <div class="textarea_wrapper" >
+                    <textarea name="content" id='comment_content'></textarea>
+                </div>
+                <input type="hidden" name="targetid" id="targetid" value="">
+                <input type="hidden" name="format" value="SCRIPT">
+                <input type="hidden" name="source" value="3">
+                <input type="hidden" name="callback" value="parent.topCallback">
+                <input type="hidden" name="code" value="1">
+                <input type="hidden" name="g_tk" id="token" value="">
+                <input type="hidden" name="_method" value="put">
+                <input type="hidden" name="appid" id="appid" value="wxabf7956d52750cd9">
+                <input type="hidden" name="access_token" id="access_token" value="">
+                <input type="hidden" name="openid" id="openid" value="">
+                <input type="hidden" name="logintype" id="logintype" value="1">
+                <input type="hidden" name="wxapi" id="wxapi" value="2.1">
+            </form>
+            <iframe name="ajaxUpload" style="display:none"></iframe>
+            <div class="nav_wrapper">
+                <a id='comment_submit' class="btn-submit btn-loginSubmit">发表评论 > </a>
+            </div>
+        </div>
+
+        <!-- 没有登录：点击登录 -->
+        <div id='noLogin' class="row notLogin" style="display:none">
+            <a id="login_qq_btn" class="btn-submit btn-gotoLogin">登录并发表评论 > </a>
+        </div>
+    </div>            
+</div>
+<script>
+var targetid = 1691507911;
+</script>
+    <!-- 版权页  --> 
+    <div id="copyrightPanel">
+        <div class="just-pc">
+            <p>Copyright &copy; 1998 - 2016 Tencent. All Rights Reserved</p>
+            <p>腾讯公司 版权所有</p>
+        </div>
+        <div class="just-mobile">
+            <!-- data-init : if (默认设置 'default'), else if (用户上传设置 'user'), else if (不添加设置 'null') -->
+                <div class="box-img" data-init="default">                
+                <img class="lazyCB" data-size="266x66" data-original="http://inews.gtimg.com/newsapp_ls/0/248733672/0">
+            </div>
+        </div>
+    </div>     
+    <!-- 版权页 End  -->  
+</div>
+<!-- Button : Goto Top -->
+<div id="pbt_backToTop" style="background-color:#eeeeee; visibility:visible;"></div>
+
+<script src="//mat1.gtimg.com/www/mb/cb2/global/assets/js/tools/jquery-1.10.2.min.js"></script>        <!-- 必需加载 ：jQuery -->
+<script src="//mat1.gtimg.com/www/mb/cb2/global/assets/js/tools/cbtools.1.0.js"></script>              <!-- Global Tools -->
+<script src="//mat1.gtimg.com/www/mb/cb2/global/assets/js/tools/jquery.lazyload.js"></script>          <!-- 必需加载 ：lazyload -->
+<script src="//mat1.gtimg.com/www/mb/cb2/global/assets/js/tools/require.js"></script>
+<script src="//mat1.gtimg.com/www/mb/cb/publish/assets_auto/js/api_v2.js" charset="utf-8"></script>
+<!-- 微信登陆态获取-->
+<script src="//mat1.gtimg.com/www/mb/cb2/publish/js/comment_v3.js"></script>
+
+<script type="text/javascript">
+var chartDataArr = [];
+
+chartDataArr.push('{"id":"3_19","type":"0","isEndwise":0,"isAnimation":"true","isUnit":"","data":[{"title":"1949-1955","scale":"24"},{"title":"1956-1960","scale":"14"},{"title":"1961-1965","scale":"13"},{"title":"1966-1970","scale":"5"},{"title":"1971-1975","scale":"50"},{"title":"1976-1980","scale":"16"},{"title":"1981-1985","scale":"8"},{"title":"1986-1990","scale":"8"},{"title":"1991-1995","scale":"24"},{"title":"1996-2000","scale":"4"},{"title":"2001-2005","scale":"2"},{"title":"2006-2016","scale":"5"}],"color":"#0ca9ee"}');   
+
+$(function() {
+		try{
+		//分享
+		var wxShareUrl = "http://news.qq.com/cross/20161228/2D6Ej23O.html";
+		if(window.location.host.indexOf('m.')=="0" || wxShareUrl==""){
+			var wxShareUrl= window.location.href;
+			wxShareUrl = wxShareUrl.replace(window.location.hash,"");
+			wxShareUrl = wxShareUrl.replace(window.location.search,"");
+		}
+		cbApi.wexin("http://inews.gtimg.com/newsapp_ls/0/964403573/0",wxShareUrl,"台湾“邦交国”就剩这21个了，基本上都“一小二穷”","近日，有外媒报道称，梵蒂冈与中国大陆建交在即。");
+	}catch(e){}
+
+    var page = {
+        init : function(){
+            requirejs.config({
+                baseUrl: '//mat1.gtimg.com/www/mb/cb2/publish/prj_usual_1/assets/js/',        //* Set : base-root :: //mat1.gtimg.com/www/mb/cb2/publish/prj_usual_1/assets/js/ 
+                paths: {
+                    "global-tools": "//mat1.gtimg.com/www/mb/cb2/global/assets/js/tools"   //* Set : my-define-src`
+                }
+            });
+
+            // Start loading the main app file.
+            requirejs(['Main_v3.4']);
+        }
+    }
+
+    page.init();
+});
+
+</script>
+<link rel="stylesheet" type="text/css" href="//mat1.gtimg.com/www/mb/cb2/global/assets/css/comment.css">   
+<script type="text/javascript">
+var backUrl = window.location.href;
+var __uin ="";
+//初始化获取文章信息
+$(document).ready(function () {
+	var ua = navigator.userAgent;
+	var isqqnews = ua.match(/qqnews\/([\d.]+)/);
+	if(isqqnews){
+		$('.cbtb_comment').hide();
+	}else{
+		__uin = getUin();
+		initStart();
+	}
+
+});
+</script>
+	<script language="javascript" src="//mat1.gtimg.com/ping.js"></script>
+	<script language="javascript">
+	if(typeof(pgvMain) == 'function') pgvMain();
+	</script>
+	</body>
+</html>
+<!--[if !IE]>|xGv00|e9427af944a3042fa7a717a47bf74881<![endif]-->
